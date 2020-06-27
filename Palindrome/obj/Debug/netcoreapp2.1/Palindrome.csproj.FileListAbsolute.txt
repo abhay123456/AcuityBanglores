@@ -1,0 +1,11 @@
+E:\Acuity\Palindrome\bin\Debug\netcoreapp2.1\Palindrome.deps.json
+E:\Acuity\Palindrome\bin\Debug\netcoreapp2.1\Palindrome.runtimeconfig.json
+E:\Acuity\Palindrome\bin\Debug\netcoreapp2.1\Palindrome.runtimeconfig.dev.json
+E:\Acuity\Palindrome\bin\Debug\netcoreapp2.1\Palindrome.dll
+E:\Acuity\Palindrome\bin\Debug\netcoreapp2.1\Palindrome.pdb
+E:\Acuity\Palindrome\obj\Debug\netcoreapp2.1\Palindrome.csprojAssemblyReference.cache
+E:\Acuity\Palindrome\obj\Debug\netcoreapp2.1\Palindrome.csproj.CoreCompileInputs.cache
+E:\Acuity\Palindrome\obj\Debug\netcoreapp2.1\Palindrome.AssemblyInfoInputs.cache
+E:\Acuity\Palindrome\obj\Debug\netcoreapp2.1\Palindrome.AssemblyInfo.cs
+E:\Acuity\Palindrome\obj\Debug\netcoreapp2.1\Palindrome.dll
+E:\Acuity\Palindrome\obj\Debug\netcoreapp2.1\Palindrome.pdb

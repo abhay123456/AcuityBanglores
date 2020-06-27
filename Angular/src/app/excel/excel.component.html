@@ -1,0 +1,19 @@
+<div class="row" style="margin-bottom:15px;">
+    <div class="col-md-3">
+      <input type="file" #file placeholder="Choose file" (change)="uploadFile(file.files)" style="display:none;">
+      <button type="button" class="btn btn-success" (click)="file.click()">Upload File</button>
+      <button type="button" class="btn btn-success" style="position: absolute; right: 0;margin-right: 12px;" (click)="download()">Export Excel</button>
+    </div>
+   
+    
+    
+  
+  </div>
+  <ag-grid-angular
+    style="width: 100%; height: 600px;"
+    class="ag-theme-alpine"
+    [rowData]="excelfields"
+    [columnDefs]="columnDefs"
+    (gridReady)="OnGridReady($event)"
+    colDef.editable=true>
+</ag-grid-angular>
